@@ -36,6 +36,7 @@ body {
 #list li {
     width: 50%;
     float: left;
+    text-align: center;
 }
 #list li figure:nth-of-type(1) { /* nth-of-type() - 같은 것 중에 ''번째 */
     height: 124px;
